@@ -1,0 +1,23 @@
+.header a {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.header img {
+  width: 80px;
+}
+
+.header h1 {
+  font-variant: initial;
+}
+
+.header a h1 {
+  color: initial;
+}
+
+@media (prefers-color-scheme: dark) {
+  .header a h1 {
+    color: #fafafa;
+  }
+}
