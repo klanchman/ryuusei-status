@@ -365,7 +365,7 @@ params:
   # the value to the default:
   #
   # Default: UA-00000000-1
-  googleAnalytics:
+  googleAnalytics: UA-00000000-1
 
   enableCustomHTML: true
 
