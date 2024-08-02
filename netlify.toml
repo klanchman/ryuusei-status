@@ -20,3 +20,7 @@
     for = "/*"
     [headers.values]
       Access-Control-Allow-Origin = "*"
+
+[[redirects]]
+    from = "/*"
+    to = "https://ryuusei.instatus.com"
