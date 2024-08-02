@@ -24,3 +24,5 @@
 [[redirects]]
     from = "/*"
     to = "https://ryuusei.instatus.com"
+    status = 302
+    force = true
