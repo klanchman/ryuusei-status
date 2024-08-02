@@ -22,6 +22,12 @@
       Access-Control-Allow-Origin = "*"
 
 [[redirects]]
+    from = "/summary.json"
+    to = "https://ryuusei.instatus.com/summary.json"
+    status = 302
+    force = true
+
+[[redirects]]
     from = "/*"
     to = "https://ryuusei.instatus.com"
     status = 302
